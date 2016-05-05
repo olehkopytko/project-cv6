@@ -38,6 +38,7 @@ body {
 	line-height: 2em;
 	font-weight: bold;
 	text-align: center;
+	position: fixed;
 }
 a {
 	color: white; 
