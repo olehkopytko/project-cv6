@@ -10,7 +10,6 @@ header, section, footer, aside, nav, article, hgroup{
 body {
 	font-family: Arial, sans-serif;
 	font-size: 100%;
-	background: url(images/image-main.jpg) center center no-repeat; 
 }
 /* HEADER */
 .header {
@@ -38,7 +37,6 @@ body {
 	line-height: 2em;
 	font-weight: bold;
 	text-align: center;
-	position: fixed;
 }
 a {
 	color: white; 
@@ -49,7 +47,6 @@ a:hover {
 
 #main {
 	height: 570px;
-	position: fixed;
 	text-align: center;
 	background-size: cover;
 }
@@ -58,10 +55,10 @@ a:hover {
 	float: left;
 	width: 50%;
 	height: 570px;
-	background-color: #F5F5F5;
 	overflow: hidden;
 	text-align: center;
 	font-size: 16px;
+	background-color: #F5F5F5;
 }
 
 .block1 {
@@ -79,9 +76,9 @@ figure {
 	
 }
 figure img {
-	width: 50%;
-	margin: 10% 0 0 0;
-	border: 2px solid #8b8e4b;
+	width: 40%;
+	margin: 5% 0 0 0;
+	border: 7px solid white;
 }
 figure p {
 	margin-bottom: 10px;
@@ -102,12 +99,14 @@ figure p {
 	padding: 20px; /* поля навколо тексту */
 	margin-top: 10%; /* відступ зверху */
 }
-.block2 h2 {
-
+img {
+	margin-top: 10%;
+	margin-right: 10%;
 }
 /* FOOTER */
 .footer {
 	background: #696969;
+	float: left;
 	bottom: 0;
 	left: 0;
 	padding: 10px 0;
