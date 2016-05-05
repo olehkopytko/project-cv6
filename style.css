@@ -100,7 +100,6 @@ figure p {
 	border: 1px dashed white; /* параметри рамки */
 	padding: 20px; /* поля навколо тексту */
 	margin-top: 10%; /* відступ зверху */
-	position: fixed;
 }
 .block2 h2 {
 
