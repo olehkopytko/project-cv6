@@ -109,18 +109,11 @@ article {
 	text-align: left;
 	color: #CD3333;
 }
-h4 {
-	color: #CD3333;
-}
 p {
 	font:  22px/24px "Courier New", Courier;
 	padding: 10px; /* поля навколо тексту */
 	color: #808080;
 	text-align: left;
-}
-.like {
-	width: 50px;
-	margin-top: 10%;
 }
 											/* FOOTER */
 .footer {
